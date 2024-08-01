@@ -1,4 +1,4 @@
 print("hello world")
 
-def function_print(params):
+def function_print(params, type=None):
     print(params)
